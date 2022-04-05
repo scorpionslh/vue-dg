@@ -1,5 +1,5 @@
 {
-  "name": "vue-dg",
+  "name": "vue-dg-playformance",
   "description": "Data grid for Vue.js with sorting, filtering, paging, templating and remote data loading.",
   "version": "1.6.0",
   "private": false,
@@ -14,9 +14,7 @@
   "dependencies": {
     "vue": "^2.6.12"
   },
-  "author": {
-    "name": "Marcin Chwalek"
-  },
+  "author": "Marcin Chwalek",
   "bugs": {
     "url": "https://github.com/M-Ch/vue-dg/issues"
   },
@@ -24,7 +22,7 @@
   "typings": "types/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/M-Ch/vue-dg.git"
+    "url": "git+https://github.com/scorpionslh/vue-dg.git"
   },
   "devDependencies": {
     "@vue/cli-plugin-typescript": "^3.12.1",
