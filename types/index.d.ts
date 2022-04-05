@@ -130,7 +130,8 @@ export interface ILocale {
 }
 
 export interface ILocales {
-   plPL: ILocale
+   plPL: ILocale,
+   ptBr: ILocale
 }
 
 export interface IDataGrid {
