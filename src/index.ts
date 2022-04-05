@@ -9,9 +9,11 @@ import { addSource, addRemoteSource, addXhrHook } from "./DataSource";
 import * as odata from "./OData";
 import * as kendo from "./KendoMvc";
 import plPL from "./i18n/pl-PL";
+import ptBR from "./i18n/pt-BR";
 
 const locales = {
-   plPL
+   plPL,
+   ptBR
 };
 
 const components: {[key: string]: VueConstructor} = {
